@@ -1,0 +1,65 @@
+Candidate ID: CAND001
+Name: Mohammed Ahmed Khaled
+Contact:
+  Email: mohammedimmortal1234@gmail.com
+  Phone: +201142312771
+  LinkedIn: https://www.linkedin.com/in/mohammed-khaled-438324219/
+Skills:
+  Hard Skills:
+    C++: N/A
+    Dart: N/A
+    VS Code: N/A
+    Android Studio: N/A
+    MS office: N/A
+    Flutter: N/A
+    GitHub: N/A
+    Data Structure: N/A
+    OOP: N/A
+    Algorithms: N/A
+    Problem Solving: N/A
+    State Management: N/A
+    Api: N/A
+    Animation: N/A
+    Clean Code: N/A
+    Firebase: N/A
+  Soft Skills: Team Work, Communication, Time Management, Skill Development, Attention to Details, Easy Adabtable, Creativity and Innovation
+Experience:
+Education:
+  Bachelor in Computer Science, Benha University, Sep. 2018 – June 2022
+Preferred Roles:
+  - Entry-level Flutter developer position or internship
+
+Candidate ID: CAND002
+Name: Alharith Ali
+Contact:
+  Email: Alharith-ali@hotmail.com
+  Phone: +966564540086
+  LinkedIn: N/A
+Skills:
+  Hard Skills:
+    Microsoft Office Proficiencies: N/A
+    Presentation skills: N/A
+  Soft Skills: Effective communication with Others, Team Building, Work with high efficiency
+Experience:
+  - Job Title: Facilitator (Database Supervisor)
+    Company: Al Tamimi Company
+    Duration: 01/2020 – Present
+  - Job Title: Site Supervisor
+    Company: Aldrees petroleum and transport services company
+    Duration: 10/2015 – 09/2017
+  - Job Title: Assistant accountant
+    Company: Al-Balagha Holding
+    Duration: 04/2014 – 09/2015
+Education:
+  Bachelor of Public Administration with honors (4.64/5.00), Technical college, 2021
+Certifications:
+  - NEBOSH IGC International General Certificate in Occupational Health and Safety, 2024
+  - ISO 14001:2015 Environmental Management System, 2024
+  - ICDL Certificate, 2010
+  - English Certificate of attendance from Dominion English Schools New Zealand, 2010
+  - Emergency First Aid at Work certificate
+  - Safety Training Awards: STA Level 2 Award in Basic Life Support and Safe Use of an Automated External Defibrillator
+Languages:
+  - Arabic – Native
+  - English – Good
+

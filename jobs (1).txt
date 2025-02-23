@@ -1,0 +1,54 @@
+Job ID: JOB001
+Title: AI Engineer
+Required Skills: 
+  - Python (Critical)
+  - Machine Learning (Critical)
+  - Deep Learning (Advanced)
+  - TensorFlow (Intermediate)
+  - PyTorch (Intermediate)
+  - Data Analysis (Advanced)
+  - NLP (Critical)
+
+Job ID: JOB002
+Title: Full-Stack Developer
+Required Skills: 
+  - JavaScript (Critical)
+  - React (Critical)
+  - Node.js (Advanced)
+  - Django (Intermediate)
+  - REST APIs (Critical)
+  - Microservices (Advanced)
+  - MongoDB (Intermediate)
+  - PostgreSQL (Advanced)
+
+Job ID: JOB003
+Title: Database Administrator
+Required Skills: 
+  - SQL (Critical)
+  - PostgreSQL (Critical)
+  - MongoDB (Intermediate)
+  - Data Warehousing (Advanced)
+  - Database Security (Critical)
+  - Cloud Database Management (Advanced)
+
+Job ID: JOB004
+Title: Cybersecurity Analyst
+Required Skills: 
+  - Cybersecurity (Critical)
+  - Ethical Hacking (Advanced)
+  - Network Security (Critical)
+  - Penetration Testing (Advanced)
+  - SIEM (Intermediate)
+  - Forensics (Advanced)
+
+Job ID: JOB005
+Title: Data Scientist
+Required Skills: 
+  - Python (Critical)
+  - SQL (Critical)
+  - TensorFlow (Intermediate)
+  - PyTorch (Intermediate)
+  - Data Analysis (Critical)
+  - Statistics (Critical)
+  - Big Data (Advanced)
+

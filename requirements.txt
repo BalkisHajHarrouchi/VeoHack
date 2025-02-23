@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+transformers
+nltk
+textstat
+gym

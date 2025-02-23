@@ -1,0 +1,98 @@
+{
+    "candidates": [
+        {
+            "id": "CAND001",
+            "name": "Mohammed Ahmed Khaled",
+            "about me": "Enthusiastic and detail-oriented entry-level Flutter developer with a strong foundation in Dart programming and cross-platform mobile app development. Proficient in building responsive and user-friendly mobile applications for both Android and iOS platforms. Adept at utilizing Flutter widgets, managing state, and integrating APIs. Passionate about continuous learning and staying updated with the latest industry trends. Excels in collaborative environments and is committed to delivering high-quality code and innovative solutions. Currently seeking an entry-level Flutter developer position or internship to further develop my skills and contribute to innovative projects.",
+            "contact": {
+                "email": "mohammedimmortal1234@gmail.com",
+                "phone": "+201142312771",
+                "linkedin": "https://www.linkedin.com/in/mohammed-khaled-438324219/"
+            },
+            "skills": {
+                "hard_skills": {
+                    "C++": null,
+                    "Dart": null,
+                    "VS Code": null,
+                    "Android Studio": null,
+                    "MS office": null,
+                    "Flutter": null,
+                    "GitHub": null,
+                    "Data Structure": null,
+                    "OOP": null,
+                    "Algorithms": null,
+                    "Problem Solving": null,
+                    "State Management": null,
+                    "Api": null,
+                    "Animation": null,
+                    "Clean Code": null,
+                    "Firebase": null
+                },
+                "soft_skills": [
+                    "Team Work",
+                    "Communication",
+                    "Time Management",
+                    "Skill Development",
+                    "Attention to Details",
+                    "Easy Adabtable",
+                    "Creativity and Innovation"
+                ]
+            },
+            "education": "Bachelor in Computer Science, Benha University, Sep. 2018 – June 2022",
+            "preferred_roles": [
+                "Entry-level Flutter developer position or internship"
+            ],
+            "availability": null
+        },
+        {
+            "id": "CAND002",
+            "name": "Alharith Ali",
+            "about me": "Experienced office manager with nearly 8 years of experience and a Bachelor's degree in Public Administration. Recently certified in NEBOSH IGC and ISO 14001, I am now seeking new opportunities in Health, Safety, and Environment (HSE) to apply my skills and knowledge in ensuring workplace safety and compliance.",
+            "contact": {
+                "email": "Alharith-ali@hotmail.com",
+                "phone": "+966564540086"
+            },
+            "skills": {
+                "hard_skills": {
+                    "Microsoft Office Proficiencies": null,
+                    "Presentation skills": null
+                },
+                "soft_skills": [
+                    "Effective communication with Others",
+                    "Team Building",
+                    "Work with high efficiency"
+                ]
+            },
+            "experience": [
+                {
+                    "job_title": "Facilitator (Database Supervisor)",
+                    "company": "Al Tamimi Company",
+                    "duration": "01/2020 – Present"
+                },
+                {
+                    "job_title": "Site Supervisor",
+                    "company": "Aldrees petroleum and transport services company",
+                    "duration": "10/2015 – 09/2017"
+                },
+                {
+                    "job_title": "Assistant accountant",
+                    "company": "Al-Balagha Holding",
+                    "duration": "04/2014 – 09/2015"
+                }
+            ],
+            "education": "Bachelor of Public Administration with honors (4.64/5.00), Technical college, 2021",
+            "certifications": [
+                "NEBOSH IGC International General Certificate in Occupational Health and Safety, 2024",
+                "ISO 14001:2015 Environmental Management System, 2024",
+                "ICDL Certificate, 2010",
+                "English Certificate of attendance from Dominion English Schools New Zealand, 2010",
+                "Emergency First Aid at Work certificate",
+                "Safety Training Awards: STA Level 2 Award in Basic Life Support and Safe Use of an Automated External Defibrillator"
+            ],
+            "languages": [
+                "Arabic – Native",
+                "English – Good"
+            ]
+        }
+    ]
+}
